@@ -1,5 +1,13 @@
 # @read-frog/extension
 
+## 1.4.4
+
+### Patch Changes
+
+- [#377](https://github.com/mengxi-ream/read-frog/pull/377) [`873dcb3`](https://github.com/mengxi-ream/read-frog/commit/873dcb3a66f075cab81324def6feb18fa6036646) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix: provider test deeplx logic
+
+- [#363](https://github.com/mengxi-ream/read-frog/pull/363) [`a7c49ce`](https://github.com/mengxi-ream/read-frog/commit/a7c49ce4d9a8d2b968213fac5f5b5658f2624cb1) Thanks [@flowKKo](https://github.com/flowKKo)! - feat: add API providers test feature
+
 ## 1.4.3
 
 ### Patch Changes
