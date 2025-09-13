@@ -1,5 +1,29 @@
 # @read-frog/extension
 
+## 1.9.0
+
+### Minor Changes
+
+- [#463](https://github.com/mengxi-ream/read-frog/pull/463) [`5bbe29e`](https://github.com/mengxi-ream/read-frog/commit/5bbe29e31fe81fe180ba105ca369a7d48986a5cd) Thanks [@sedationh](https://github.com/sedationh)! - feat: add drag feature
+
+- [#450](https://github.com/mengxi-ream/read-frog/pull/450) [`b87fa03`](https://github.com/mengxi-ream/read-frog/commit/b87fa03cc01b504aaa861bcb4cf8b52036d44196) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - refactor: allow arbitraty number of providers
+
+### Patch Changes
+
+- [#458](https://github.com/mengxi-ream/read-frog/pull/458) [`f028439`](https://github.com/mengxi-ream/read-frog/commit/f028439105ecdbb2ce8f8cd9a6b1e06d04c0395f) Thanks [@sedationh](https://github.com/sedationh)! - feat: optimize selection-toolbar popup logic
+
+- [#464](https://github.com/mengxi-ream/read-frog/pull/464) [`f08001f`](https://github.com/mengxi-ream/read-frog/commit/f08001f3e9c0bf51d7055f68eadcbfa670b1d618) Thanks [@Yukiniro](https://github.com/Yukiniro)! - refactor: use `deepmerge-ts` to replace `deepmerge`
+
+- [#454](https://github.com/mengxi-ream/read-frog/pull/454) [`ee76a28`](https://github.com/mengxi-ream/read-frog/commit/ee76a287f7fb4007269747e45a9779ed1939c4f8) Thanks [@taiiiyang](https://github.com/taiiiyang)! - style: improve button interaction
+
+- [#460](https://github.com/mengxi-ream/read-frog/pull/460) [`9de7995`](https://github.com/mengxi-ream/read-frog/commit/9de7995e1b260bf36a8bae4a6923d3a8f40d17ed) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - refactor: migrate provider logos from images to CDN
+
+- [#463](https://github.com/mengxi-ream/read-frog/pull/463) [`5bbe29e`](https://github.com/mengxi-ream/read-frog/commit/5bbe29e31fe81fe180ba105ca369a7d48986a5cd) Thanks [@sedationh](https://github.com/sedationh)! - feat: add ai button popover
+
+- [#448](https://github.com/mengxi-ream/read-frog/pull/448) [`e83cead`](https://github.com/mengxi-ream/read-frog/commit/e83cead4eb4f6cb49fe79272dfbbdaa6e6be8ead) Thanks [@Yukiniro](https://github.com/Yukiniro)! - fix: use color-scheme to support native components
+
+- [#468](https://github.com/mengxi-ream/read-frog/pull/468) [`2876ea8`](https://github.com/mengxi-ream/read-frog/commit/2876ea8b56d405b27ac34f3dbfa26c685e64d445) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix: don't translate some element which should not be walked
+
 ## 1.8.0
 
 ### Minor Changes
