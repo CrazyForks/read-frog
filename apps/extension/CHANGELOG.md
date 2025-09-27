@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.10.9
+
+### Patch Changes
+
+- [#535](https://github.com/mengxi-ream/read-frog/pull/535) [`3c711ee`](https://github.com/mengxi-ream/read-frog/commit/3c711eebc99d90ca8bef679b942699a9bae50114) Thanks [@sedationh](https://github.com/sedationh)! - fix: enhance extractTextContext to handle edge cases in text selection
+
 ## 1.10.8
 
 ### Patch Changes
