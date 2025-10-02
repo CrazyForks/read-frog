@@ -1,5 +1,15 @@
 # @read-frog/extension
 
+## 1.10.10
+
+### Patch Changes
+
+- [#550](https://github.com/mengxi-ream/read-frog/pull/550) [`a1a6e85`](https://github.com/mengxi-ream/read-frog/commit/a1a6e8516e9cf5c171c8e404578a45f830307c1d) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - docs: add provider config docs
+
+- [#554](https://github.com/mengxi-ream/read-frog/pull/554) [`1cfa6f9`](https://github.com/mengxi-ream/read-frog/commit/1cfa6f91675bce063e7cc74d18f54098eb689f79) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix: change default shortcut for translation
+
+- [#550](https://github.com/mengxi-ream/read-frog/pull/550) [`a1a6e85`](https://github.com/mengxi-ream/read-frog/commit/a1a6e8516e9cf5c171c8e404578a45f830307c1d) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix: update model for tensdaq
+
 ## 1.10.9
 
 ### Patch Changes
