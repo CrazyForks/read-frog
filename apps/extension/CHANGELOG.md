@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.16.1
+
+### Patch Changes
+
+- [#669](https://github.com/mengxi-ream/read-frog/pull/669) [`aee1847`](https://github.com/mengxi-ream/read-frog/commit/aee18477edb4ed7f1bf7d8375801fc5e1ba3c276) Thanks [@darmau](https://github.com/darmau)! - style: set proper font-family for Japanese and Chinese translation, in order to render the right kanjis.
+
 ## 1.16.0
 
 ### Minor Changes
